@@ -1,0 +1,1 @@
+declare const ElMessage : typeof import('element-plus')['ElMessage'];
